@@ -10,9 +10,9 @@ import Analytics from 'unplugin-analytics/vite';
 
 import fetchCaptain from './plugin';
 
-const ruid = +(process.env.RUID ?? 477317922);
+const ruid = +(process.env.RUID ?? 3546817912375486);
 
-const roomid = +(process.env.ROOM_ID ?? 21672023);
+const roomid = +(process.env.ROOM_ID ?? 1836718249);
 
 export default defineConfig({
   define: {
